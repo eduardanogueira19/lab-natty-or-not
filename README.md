@@ -15,4 +15,5 @@ Este projeto, "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas", e
 O processo de criação do projeto combinou criatividade e tecnologia avançada, inspirando-se no movimento "Natty or Not" do fisiculturismo. Utilizamos GPT-4 para gerar textos, DALL-E 2 para criar imagens realistas, WaveNet para sintetizar áudios de entrevistas e deepfake para produzir vídeos de avatares virtuais. Cada etapa explorou as capacidades impressionantes dessas tecnologias, resultando em conteúdos que desafiam a linha entre o real e o artificial. O projeto demonstrou o poder das IAs Generativas e promoveu uma reflexão sobre autenticidade e ética na era digital.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+E-book: https://github.com/eduardanogueira19/lab-natty-or-not/blob/main/e-book.pdf
+
