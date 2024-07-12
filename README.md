@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto: "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto, "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas", explora o potencial das tecnologias de Inteligência Artificial Generativa na criação de conteúdos realistas e inovadores. Inspirado pela tendência "Natty or Not" do fisiculturismo, o projeto utiliza ferramentas avançadas de IA, como GPT-4, DALL-E 2, WaveNet e Deepfake, para produzir textos, imagens, áudios e vídeos que simulam interações e cenários no mundo do fisiculturismo. Através deste projeto, demonstramos como as IAs Generativas podem revolucionar a criação de conteúdos e desafiar nossa percepção do que é real ou artificial, ao mesmo tempo que refletimos sobre as implicações éticas e a autenticidade na era digital.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
 
+- GPT-4;
+- DALL-E 2;
+- WaveNet;
+- Deepfake;
+- Gamma.
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo de criação do projeto combinou criatividade e tecnologia avançada, inspirando-se no movimento "Natty or Not" do fisiculturismo. Utilizamos GPT-4 para gerar textos, DALL-E 2 para criar imagens realistas, WaveNet para sintetizar áudios de entrevistas e deepfake para produzir vídeos de avatares virtuais. Cada etapa explorou as capacidades impressionantes dessas tecnologias, resultando em conteúdos que desafiam a linha entre o real e o artificial. O projeto demonstrou o poder das IAs Generativas e promoveu uma reflexão sobre autenticidade e ética na era digital.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
